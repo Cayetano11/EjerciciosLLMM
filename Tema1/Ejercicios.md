@@ -1,8 +1,8 @@
 ### **ESTO ES UN TITULO**
 
-##*Esto es un titulo cursivo*
+## *Esto es un titulo cursivo*
 
-#*** Y esto negrita y cursiva***
+# *** Y esto negrita y cursiva***
 
 Es hora de comenzar con el texto en si, las cosas **importantes** deben ir en negrita asi como los nombres *técnicos* 
 en cursiva para resaltarlos pues como dice el refrán:
@@ -24,4 +24,4 @@ Rº María|64 años
 Ana|36 años
 
 
-![Un lindo perro que alegra el dia](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/pero.jpg)
+![Un lindo perro que alegra el dia] (https://github.com/Cayetano11/EjerciciosLLMM/blob/master/pero.jpg)
