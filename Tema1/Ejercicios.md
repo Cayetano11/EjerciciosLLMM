@@ -24,4 +24,4 @@ Rº María|64 años
 Ana|36 años
 
 
-![Un lindo perro que alegra el dia] (https://github.com/Cayetano11/EjerciciosLLMM/blob/master/pero.jpg)
+![Un lindo perro que alegra el dia](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/pero.jpg)
