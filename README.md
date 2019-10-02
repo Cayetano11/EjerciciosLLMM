@@ -10,5 +10,5 @@ Ekercicio 3|[Tercer ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob
 Ejercicio 4| [Cuarto ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/Tema1/Ejercicios4.md) **Utilizacion de MARKDOWN en github**
 
 
-# ***Y recuerda, programa con Alegría e ilusión cómo este perrillo juguetón***
+# ***Y recuerda, programa con Alegría e ilusión como este perrillo juguetón***
 ![perro](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/pero.jpg)
