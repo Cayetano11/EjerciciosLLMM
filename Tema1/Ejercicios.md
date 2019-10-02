@@ -1,8 +1,6 @@
 ### **ESTO ES UN TITULO**
 
-## *Esto es un titulo cursivo*
-
-# *** Y esto negrita y cursiva***
+## *Esto es un titulo cursiva*
 
 Es hora de comenzar con el texto en si, las cosas **importantes** deben ir en negrita asi como los nombres *técnicos* 
 en cursiva para resaltarlos pues como dice el refrán:
