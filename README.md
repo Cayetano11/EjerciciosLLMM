@@ -6,7 +6,7 @@ Ejercicio|Link y descripción
 ---------|------------------
 Ejercicio 1|[Primer ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/Tema1/primer%20ejercicio.html) **Pagina web simple HTML**
 Ejercicio 2|[Segundo ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/Tema1/segundo%20ejercicio%20con%20svg.html) **Pagina web con SVG**
-Ekercicio 3|[Tercer ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/Tema1/segundo%20ejercicio%20con%20svg.html) **Archivo XML con descripcion de libros**
+Ekercicio 3|[Tercer ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/Tema1/EJERCICIO%203.XML) **Archivo XML con descripcion de libros**
 Ejercicio 4| [Cuarto ejercicio](https://github.com/Cayetano11/EjerciciosLLMM/blob/master/Tema1/Ejercicios4.md) **Utilizacion de MARKDOWN en github**
 
 
